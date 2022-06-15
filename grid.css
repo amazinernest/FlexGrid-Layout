@@ -56,7 +56,8 @@ a {
 }
 
 @media screen and (max-width: 768px) {
-  main {
+  main,
+  header {
     width: 100%;
     display: block;
     gap: 20px;

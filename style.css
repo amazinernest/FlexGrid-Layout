@@ -95,6 +95,10 @@ header {
     height: 200vh;
     margin: 50px 0;
   }
+
+  header {
+    display: block;
+  }
   main {
     width: 100%;
     display: block;
